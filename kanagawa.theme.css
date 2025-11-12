@@ -2902,12 +2902,12 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 
 /* Here is the font change */
 @font-face {
-    font-family: "FiraCode";
-    src: url("https://raw.githubusercontent.com/ravnix/dotfiles/master/FiraCodeNerdFont-Regular.ttf");
+    font-family: "MartianMono";
+    src: url("https://raw.githubusercontent.com/ravnix/dotfiles/master/MartianMonoNerdFont-Regular.ttf");
 }
 @font-face {
-    font-family: "FiraCode Mono";
-    src: url("https://raw.githubusercontent.com/ravnix/dotfiles/master/FiraCodeNerdFontMono-Regular.ttf");
+    font-family: "MartianMono Mono";
+    src: url("https://raw.githubusercontent.com/ravnix/dotfiles/master/MartianMonoNerdFontMono-Regular.ttf");
 }
 
 :root {
