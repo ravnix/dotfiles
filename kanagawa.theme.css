@@ -2902,19 +2902,19 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 
 /* Here is the font change */
 @font-face {
-    font-family: "FiraCode";
-    src: url("https://raw.githubusercontent.com/ravnix/dotfiles/main/FiraCodeNerdFont-Regular.ttf");
+    font-family: "TerminessTTF";
+    src: url("https://github.com/ravnix/dotfiles/raw/refs/heads/master/FiraCodeNerdFontMono-Regular.ttf");
 }
 @font-face {
-    font-family: "FiraCode Mono";
-    src: url("https://raw.githubusercontent.com/ravnix/dotfiles/main/FiraCodeNerdFontMono-Regular.ttf");
+    font-family: "TerminessTTF Mono";
+    src: url("https://github.com/ravnix/dotfiles/raw/refs/heads/master/FiraCodeNerdFontMono-Regular.ttf");
 }
 
 :root {
-    --font-primary: "FiraCode";
-    --font-headline: "FiraCode";
-    --font-code: "FiraCode Mono";
-    --font-display: "FiraCode";
+    --font-primary: "TerminessTTF";
+    --font-headline: "TerminessTTF";
+    --font-code: "TerminessTTF Mono";
+    --font-display: "TerminessTTF";
     /* above line changes the primary font only. You can also change the ones below (remove this line to activate the lines below)
     --font-display: "Roboto";
     --font-headline: "Roboto";
