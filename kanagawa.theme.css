@@ -2911,10 +2911,10 @@ li[id*=chat-messages-921217923790561360-] article[style="border-color: hsla(20, 
 }
 
 :root {
-    --font-primary: "FiraCode";
-    --font-headline: "FiraCode";
-    --font-code: "FiraCode Mono";
-    --font-display: "FiraCodeF";
+    --font-primary: "MartianMono";
+    --font-headline: "MartianMono";
+    --font-code: "MartianMono Mono";
+    --font-display: "MartianMono";
     /* above line changes the primary font only. You can also change the ones below (remove this line to activate the lines below)
     --font-display: "Roboto";
     --font-headline: "Roboto";
